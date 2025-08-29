@@ -104,6 +104,11 @@ main {
   font: var(--text-preset-1);
 }
 
+.card-title:hover {
+  color: var(--color-yellow);
+  cursor: pointer;
+}
+
 .card-paragraph {
   color: var(--color-gray-500);
   font: var(--text-preset-2);
